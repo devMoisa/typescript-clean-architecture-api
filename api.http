@@ -1,0 +1,15 @@
+POST http://localhost:3000/entrepreneur
+Content-Type: application/json
+
+{
+    "name": "Moises",
+    "surname": "Miranda",
+    "sex": "MALE",
+    "email": "john@doe.com",
+    "contact": "+5515123456",
+    "companyName": "CleanCompany",
+    "companyWebSiteURL": "www.cleancompany.com.br"
+}
+###
+
+GET http://localhost:3000/entrepreneur
