@@ -13,3 +13,6 @@ Content-Type: application/json
 ###
 
 GET http://localhost:3000/entrepreneur
+###
+
+POST http://localhost:3000/instagram/automation
